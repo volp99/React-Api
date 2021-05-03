@@ -1,5 +1,5 @@
 
-import './App.css';
+import  './App.css';
 import FetchRandomUser from "./FetchRandomUser";
 
 function App() {

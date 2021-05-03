@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can find the project at: https://heuristic-einstein-146761.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:

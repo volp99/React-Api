@@ -1,6 +1,5 @@
 import  './App.css';
 import FetchRandomUser from "./FetchRandomUser";
-import Radial from "./Radial";
 function App() {
     return (
         <div className="App">
